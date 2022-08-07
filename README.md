@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @IraKutepova
 - 👀 I’m interested in restarting my professional life
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python / PHP
 - 💞️ I’m looking to collaborate on getting job
 - 📫 How to reach me: kutepova.i.a@mail.ru or kutirinka22@gmail.com
 
